@@ -2,9 +2,9 @@
 This Repository is a guide to all the git commands you need to use in case any of these situations arise.
 
 ## Index :
-* [Basic Commands :](#basic-commands-v)
-* [Branches :](#branches-deciduous_tree)
-* [Update forked Repository with original Repository :](#update-forked-repository-with-original-repository--hourglass)
+* [Basic Commands :](#basic-commands)
+* [Branches :](#branches)
+* [Update forked Repository with original Repository :](#update-forked-repository-with-original-repository)
 * [Dev branch is X commits behind and Y commits ahead of master](#your-dev-branch-is-x-commits-behind-and-y-commits-ahead-of-master-fix)
 * [Short hands](#short-hands)
 * [GitHub CLI commands](#github--cli-commands)
